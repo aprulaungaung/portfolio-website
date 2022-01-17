@@ -94,7 +94,7 @@ h1{
 	margin:20px;
 }
 .front-news__headline{
-	color:var(--animation-color-2);
+	color:blue;
 }
 .front-news__img{
 	float:left;
